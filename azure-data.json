@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Standard_B1s",
+    "numberOfCores": 1,
+    "memoryInMB": 1024,
+    "memoryInGB": 1.0,
+    "linuxPrice": 7.59,
+    "windowsPrice": 15.18,
+    "architecture": "x64"
+  },
+  {
+    "name": "Standard_B2s",
+    "numberOfCores": 2,
+    "memoryInMB": 4096,
+    "memoryInGB": 4.0,
+    "linuxPrice": 30.37,
+    "windowsPrice": 60.74,
+    "architecture": "x64"
+  },
+  {
+    "name": "Standard_D2s_v3",
+    "numberOfCores": 2,
+    "memoryInMB": 8192,
+    "memoryInGB": 8.0,
+    "linuxPrice": 96.36,
+    "windowsPrice": 173.00,
+    "architecture": "x64"
+  },
+  {
+    "name": "Standard_D4s_v3",
+    "numberOfCores": 4,
+    "memoryInMB": 16384,
+    "memoryInGB": 16.0,
+    "linuxPrice": 192.72,
+    "windowsPrice": 346.00,
+    "architecture": "x64"
+  },
+  {
+    "name": "Standard_D8s_v3",
+    "numberOfCores": 8,
+    "memoryInMB": 32768,
+    "memoryInGB": 32.0,
+    "linuxPrice": 385.44,
+    "windowsPrice": 692.00,
+    "architecture": "x64"
+  },
+  {
+    "name": "Standard_D16s_v3",
+    "numberOfCores": 16,
+    "memoryInMB": 65536,
+    "memoryInGB": 64.0,
+    "linuxPrice": 770.88,
+    "windowsPrice": 1384.00,
+    "architecture": "x64"
+  },
+  {
+    "name": "Standard_D32s_v3",
+    "numberOfCores": 32,
+    "memoryInMB": 131072,
+    "memoryInGB": 128.0,
+    "linuxPrice": 1541.76,
+    "windowsPrice": 2768.00,
+    "architecture": "x64"
+  },
+  {
+    "name": "Standard_D64s_v3",
+    "numberOfCores": 64,
+    "memoryInMB": 262144,
+    "memoryInGB": 256.0,
+    "linuxPrice": 3083.52,
+    "windowsPrice": 5536.00,
+    "architecture": "x64"
+  }
+]
