@@ -1,0 +1,3 @@
+Snapshot ID        | Creation Time | Cost Since Created | Cost 30-Day | o9 CCID tag | o9 CENVID tag
+snap-001           | 2024-01-15    | 125.50             | 25.10       | CCID001     | ENV001-PROD
+snap-002           | 2024-02-20    | 89.75              | 18.95       | CCID002     | ENV002-DEV
