@@ -1,0 +1,42 @@
+[
+  {
+    "CCID (Unique Per Customer)": "CCID001",
+    "CENVID (PRE PROD)": "ENV001-PP",
+    "CENVID (PROD)": "ENV001-PROD",
+    "CENVID (DEV)": "ENV001-DEV",
+    "CENVID (STG)": "ENV001-STG",
+    "CENVID(PSR)": "ENV001-PSR"
+  },
+  {
+    "CCID (Unique Per Customer)": "CCID002",
+    "CENVID (PRE PROD)": "ENV002-PP",
+    "CENVID (PROD)": "ENV002-PROD",
+    "CENVID (DEV)": "ENV002-DEV",
+    "CENVID (STG)": "ENV002-STG",
+    "CENVID(PSR)": "ENV002-PSR"
+  },
+  {
+    "CCID (Unique Per Customer)": "CCID003",
+    "CENVID (PRE PROD)": "ENV003-PP",
+    "CENVID (PROD)": "ENV003-PROD",
+    "CENVID (DEV)": "ENV003-DEV",
+    "CENVID (STG)": "ENV003-STG",
+    "CENVID(PSR)": "ENV003-PSR"
+  },
+  {
+    "CCID (Unique Per Customer)": "CCID004",
+    "CENVID (PRE PROD)": "ENV004-PP",
+    "CENVID (PROD)": "ENV004-PROD",
+    "CENVID (DEV)": "ENV004-DEV",
+    "CENVID (STG)": "ENV004-STG",
+    "CENVID(PSR)": "ENV004-PSR"
+  },
+  {
+    "CCID (Unique Per Customer)": "CCID005",
+    "CENVID (PRE PROD)": "ENV005-PP",
+    "CENVID (PROD)": "ENV005-PROD",
+    "CENVID (DEV)": "ENV005-DEV",
+    "CENVID (STG)": "ENV005-STG",
+    "CENVID(PSR)": "ENV005-PSR"
+  }
+]
