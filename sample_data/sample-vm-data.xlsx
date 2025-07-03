@@ -1,0 +1,3 @@
+Instance Name or ID | Instance Type(current) | Platform | Max CPU % | Max Memory % | Current vCPUs | Total Memory | o9 CCID tag
+VM-001              | Standard_D2s_v3        | Linux    | 45.2      | 62.1         | 2             | 8            | CCID001
+VM-002              | Standard_D4s_v3        | Windows  | 78.5      | 55.3         | 4             | 16           | CCID002
