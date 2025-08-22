@@ -1,9 +1,5 @@
 # Multi-Cloud Analysis Dashboard
 
-[![Last Commit](https://img.shields.io/github/last-commit/Sarath2k01/Multi-Cloud-Analysis-Dashboard)]()  
-[![Issues](https://img.shields.io/github/issues/Sarath2k01/Multi-Cloud-Analysis-Dashboard)]()
-![FinOps Certified Practitioner](https://img.shields.io/badge/FinOps-Certified_Practitioner-blue)
-
 ---
 
 ## Overview
