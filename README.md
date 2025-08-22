@@ -43,8 +43,7 @@ The dashboard acts as a centralized control hub that seamlessly integrates multi
 - Suggests cost-effective instance alternatives maintaining performance standards
 - Generates detailed savings projections and automated tag compliance validation  
 
-![VM Rightsizing - Overview](./screenshots/rightsizing_dashboard.png)  
-![VM Rightsizing - Savings Projection](./screenshots/rightsizing_savings_projection.png)
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 011209" src="https://github.com/user-attachments/assets/db148d36-d6a3-41e9-bd3a-4c8f92df6003" />
 
 ---
 
@@ -55,7 +54,8 @@ The dashboard acts as a centralized control hub that seamlessly integrates multi
 - Prioritizes cleanup actions based on cost impact and governance validation
 - Provides actionable cleanup recommendations  
 
-![Unattached Disks Module](./screenshots/unattached_disks_cleanup.png)
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 011714" src="https://github.com/user-attachments/assets/feaccfcd-dccc-4d86-ba96-348bd83cd0c7" />
+
 
 ---
 
@@ -64,6 +64,8 @@ The dashboard acts as a centralized control hub that seamlessly integrates multi
 - Analyzes usage frequency and associated cost implications
 - Flags snapshots exceeding retention policies ensuring compliance
 - Identifies cost optimization opportunities while preserving data protection
+  
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 011445" src="https://github.com/user-attachments/assets/c60e2de9-c51f-4217-846f-db0d363dde06" />
 
 ---
 
@@ -82,6 +84,8 @@ The dashboard acts as a centralized control hub that seamlessly integrates multi
 - Consistent and standardized reporting formats for all insights
 - Centralized validation for governance compliance
 - Outputs executive-ready documents, automated email reports, and Excel exports for stakeholder review
+  
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 011131" src="https://github.com/user-attachments/assets/d86bf57e-2762-4efb-ad58-cab6c5eb86a2" />
 
 ---
 
@@ -108,3 +112,52 @@ By combining automation, AI, and policy-driven governance, this dashboard delive
 ### Installation
 
 1. Clone the repo:
+   git clone https://github.com/Sarath2k01/Multi-Cloud-Analysis-Dashboard.git
+   cd Multi-Cloud-Analysis-Dashboard
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Configure cloud authentication and billing access as per your environment.
+
+4. Launch the dashboard via Streamlit:
+   streamlit run app.py
+
+---
+
+## How It Works
+
+- Aggregates Cost and Usage Reports (CUR) plus resource metadata across clouds
+- Applies AI/ML techniques for anomaly detection, right-sizing, and forecasting
+- Uses policy-as-code frameworks to enforce tagging and governance compliance
+- Offers interactive data visualization via Streamlit and Plotly interfaces
+
+---
+
+## Tech Stack
+
+- Python (Boto3, Azure SDK, Google Cloud Client Libraries)
+- Streamlit for interactive dashboard UI
+- Terraform & terraform-compliance for governance policy enforcement
+- Steampipe and StackQL for cloud resource querying and compliance assessment
+- AI/ML models for cost anomaly and optimization insights
+- Visualization tools: Plotly, Grafana (optional)
+
+---
+
+## Contribution
+
+Contributions are welcome! Please file issues or feature requests and submit pull requests with clear descriptions.
+
+---
+
+## About the Author
+
+Sarath Madala is a FinOps Certified Cloud Engineer specializing in AI-driven multi-cloud cost optimization, governance, and automation.
+
+- LinkedIn: [madala-sarath](https://www.linkedin.com/in/madala-sarath/)  
+- GitHub: [Sarath2k01](https://github.com/Sarath2k01)
+
+
+
+   
